@@ -7,3 +7,13 @@ img{
     width: 200px;
     height:200px;
 }
+.container{
+    display: flex;
+}
+.personalinfo{
+ padding:1rem;   
+ min-width: 50%;
+}
+.personalinfo h1{
+    margin:0;
+}
